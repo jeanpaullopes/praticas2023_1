@@ -1,4 +1,4 @@
-const userName = "Adolfo"
+const userName = "Herique"
 
 console.log(userName);
 
@@ -9,3 +9,10 @@ function isGay(name) {
 }
 
 isGay(userName)
+
+function sum(x,y) {
+    return x + y
+}
+
+
+console.log(sum(2,2));
